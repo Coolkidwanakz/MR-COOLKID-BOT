@@ -35,7 +35,7 @@
   
 - This is essential for you to obtain your own safe forked deployable repo especially heroku users.
 
-<a href="https://github.com/mouricedevs/gifted/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK GIFTED-MD" width="150"></a>
+<a href="https://github.com/Coolkidwanakz/MR-COOLKID-BOT/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK COOLKID BOT" width="150"></a>
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -56,7 +56,7 @@
 <summary>TAP TO OPEN</summary>
 <a href="https://signup.heroku.com/login"><img src="https://img.shields.io/badge/HEROKU%20SIGNUP-white" alt="Pairing Code" width="150"></a>
   
-<a href="https://session.giftedtech.my.id/auth"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Deploy Gifted" width="150"></a>
+<a href="https://session.giftedtech.my.id/auth"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Deploy Coolkid" width="150"></a>
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
