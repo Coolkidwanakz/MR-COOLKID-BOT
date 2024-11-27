@@ -1,12 +1,3 @@
-=<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=blue&random=false&width=435&lines=COOLKID+𝐵𝛩𝑇+MADE+BY+COOLKID+;Follow+me+on+INSTAGRAM+%4Coolkidwanakz._" alt="Typing SVG" /></a>
-  
-  <img src="https://github.com/Coolkidwanakz/MR-COOLKID-BOT/blob/main/COOLKIDMM.jpg" />
-</p>
-
-
-
-
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center"> COOLKID-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
